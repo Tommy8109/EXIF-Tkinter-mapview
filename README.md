@@ -1,1 +1,1 @@
-#H1 EXIF-Tkinter-mapview
+#EXIF-Tkinter-mapview
